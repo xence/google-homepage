@@ -1,7 +1,26 @@
+li{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 27px;
+    display: inline;
+    font-size: 13px;
+    color: #5f6368;
+    font-family: arial, sans-serif;
+}
+
 .center{
-    display: block;
-    margin: auto;
+    text-align: center;
+    position: relative; top: 148px;
+
     
 }
 
-
+.button{
+    text-align: center;
+    position: relative; top: 150px;
+    background-color: #F2F2F2;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    border: none;
+    
+}
