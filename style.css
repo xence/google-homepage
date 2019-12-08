@@ -24,3 +24,18 @@ li{
     border: none;
     
 }
+
+.footer{
+    position: fixed;
+    bottom: 0;
+   
+}
+
+.signin{
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: #4285f4;
+    color: #f2f2f2;
+    
+}
